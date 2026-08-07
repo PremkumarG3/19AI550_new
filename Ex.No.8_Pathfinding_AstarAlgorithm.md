@@ -139,8 +139,9 @@ Check the following
 
 ### Output:
 
-<img width="1915" height="1016" alt="image" src="https://github.com/user-attachments/assets/dda82404-8800-474d-b950-ad45769339c0" />
-<img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/1e050cd5-00e5-447a-88f0-5f0fe9cc49bb" />
+<img width="1915" height="1016" alt="Screenshot 2026-08-07 140304" src="https://github.com/user-attachments/assets/203f39f8-c902-4f21-a32d-92c37affd370" />
+
+<img width="1907" height="1018" alt="Screenshot 2026-08-07 140423" src="https://github.com/user-attachments/assets/f1b5ff4f-7393-446e-b234-e14e0d9937df" />
 
 
 ### Result:
